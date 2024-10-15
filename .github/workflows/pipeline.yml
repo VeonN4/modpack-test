@@ -148,7 +148,10 @@ jobs:
 
       - name: Download anomaly-1.9.0-forge-1.20.1.jar
         run: curl https://mediafilez.forgecdn.net/files/5686/632/anomaly-1.9.0-forge-1.20.1.jar --create-dirs -o "/home/runner/.cache/packwiz/cache/import/anomaly-1.9.0-forge-1.20.1.jar"
-        
+
+      - name: Download VibrativeVoice-forge-1.20.1-1.1.0.jar
+        run: curl https://mediafilez.forgecdn.net/files/5473/879/VibrativeVoice-forge-1.20.1-1.1.0.jar --create-dirs -o "/home/runner/.cache/packwiz/cache/import/VibrativeVoice-forge-1.20.1-1.1.0.jar"
+      
       - name: Build Modpack
         uses: ./.github/actions/build
         with:
