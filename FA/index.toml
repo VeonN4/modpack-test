@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/etcetera.pw.toml"
-hash = "5e006b3ca15f5637b5d5fd2eceead6eaf905bb6ffbb2dfb3ddac8afc7edf0222"
+hash = "a3c014466700df06d292f7512c119df1b263b9419010948ff52e4fe5def51a48"
 metafile = true
 
 [[files]]
