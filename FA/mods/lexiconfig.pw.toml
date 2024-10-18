@@ -1,0 +1,13 @@
+name = "Lexiconfig"
+filename = "Lexiconfig-fabric-1.3.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93a1642277ebe032f865e165094e5fb714833677"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5433956
+project-id = 1019452

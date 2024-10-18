@@ -67,13 +67,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install nix
-        uses: cachix/install-nix-action@v30
+        uses: cachix/install-nix-action@v26
 
       - name: Update Mods with Packwiz
         run: nix develop --command packwiz update -a -y
 
       - name: Push the updated mod list via a Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v6
         with:
             commit-message: "update(${{ matrix.modpack }}): updated mods"
             title: 'update(${{ matrix.modpack }}): updated mods'

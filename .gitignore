@@ -9,3 +9,6 @@
 
 # Eclude precommit hooks config
 .pre-commit-config.yaml
+
+# Exclude packwiz.exe
+packwiz.exe

@@ -1,0 +1,201 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "3368b72ad9bc55e3977ca5a931c72e70b599924d7ab1b4b1cad03e2d7a4b02a8"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "436f208cf8f63df864c0b6ffa6baa774e214db1c5745a7115fa060122ceeb089"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "3f42fe078d9e10e970a2aa82d24ece01e11c8e2ccc38cea31d1773decabbbff0"
+metafile = true
+
+[[files]]
+file = "mods/etcetera.pw.toml"
+hash = "5e006b3ca15f5637b5d5fd2eceead6eaf905bb6ffbb2dfb3ddac8afc7edf0222"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "3de7f974dfe44f63a9c70d4b4afb41941ac33cbd50715019992ded4512f62948"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+hash = "2fe5c3b7249e3f5fc2f2208010a92f57d853cde64d8bc87f985d938f767647a8"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "d9f6f4f9b2bd3e38264d407558636fcb897cb1b0a5d0bef53f02ef139b7d0160"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "809c13f43e35f7792d420ba0d525fa2adb339886766b55c588ed52c0023e08af"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "594134d837f6eeec1475b436713ddc56066bde03efdbcbc14d15498033592d17"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "897f72ae5afea3fccbe77995fc878c32a8339ca4e1c6d38eedd9027ea4945d4d"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "32fc6d799adbf10786ce01bb1ce6ceccd1108e85693c1644ee7e0f32b6567c19"
+metafile = true
+
+[[files]]
+file = "mods/matowos-invisible-armor.pw.toml"
+hash = "cd9742d05698ccb734fc28c08ad414523d9da26fbe68298bfbbc6c7e28de1abe"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "0e280843f5843e71f23665f15d80dcbda7acb43bc3ae4d2e82ba35f36e42ac53"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "7f6fa59b9db6e15b859daf4f7683c89fd0e3b18b341a9f49f719e1f2f93e15b7"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c355e53e88fa330921108fd2f2d6340c015a60938bb47b4d3047a860c8095c6c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "537cf1b3a1ea72c771df8501b6f1d4fd12eaebd75955b2d684d10efdb04e0faf"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "4480e76155118ce6166af2169990b8e7db30f7925ce51d7cac1c397403e037fe"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "da31954dee4b88e0bedbda2414d3b225f5df997d8f597fda208572ec07c2152b"
+metafile = true
+
+[[files]]
+file = "mods/thigh-highs-etc.pw.toml"
+hash = "2e2e41f4bfd325335563ffc6b3a00507ff70ad1a25faeed83433e246acb39b9f"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "e6dc74c831b2d7e84707768a219d9b92e46924ad29f376f2321e2a86278096d5"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/villager-in-a-bucket.pw.toml"
+hash = "51242d93cee7136bc23abad97aee74d36144ef89b089b55f55aca5bd3602c7fe"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c7ea2de80b7e20fb841872e300f8df8afd813a666a6b3026f980f0bba8073ccc"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "ed6fb9ed4bdd3d569da410a973c8b72f91b8f149cb2d14aa106a5601765af62c"
+metafile = true

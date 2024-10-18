@@ -1,0 +1,13 @@
+name = "Thigh highs etc."
+filename = "thigh_highs_etc-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efc40851bb57ec4b1dc26b3d5e0d7e64e6cc049c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5073783
+project-id = 905853

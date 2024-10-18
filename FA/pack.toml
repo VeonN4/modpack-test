@@ -1,0 +1,16 @@
+name = "Fatherless Goes To Nature"
+author = "Veonise"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85ab1bbdcba4de5d91859de57e70b37cdda0afca65a910768892f2440928fea4"
+
+[options]
+acceptable-game-versions = ["1.20.1"]
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.20.1"
