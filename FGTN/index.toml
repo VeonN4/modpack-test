@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -78,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c9edc730013becd63a40a3faef1ce77151e5e9f92053f1b8343a21f31db9cea4"
 metafile = true
 
 [[files]]
@@ -126,6 +131,11 @@ hash = "7f6fa59b9db6e15b859daf4f7683c89fd0e3b18b341a9f49f719e1f2f93e15b7"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "a35c0831ddedd10c061e5f39fa21d7793c8bf3fee1e1a8933668278bbfb3d2dd"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c355e53e88fa330921108fd2f2d6340c015a60938bb47b4d3047a860c8095c6c"
 metafile = true
@@ -148,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3e1f327af3d210ab74bb1301a2eba7f38391bcf6ee9b71b643bac5262fb998a9"
 metafile = true
 
 [[files]]

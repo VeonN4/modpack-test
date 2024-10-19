@@ -16,7 +16,7 @@ Welcome to the Fatheless Goes To Nature repository for our private server named 
 3. Open the CurseForge app.
 4. Search for **Fatheless Goes To Nature**.
 5. Play the game.
-asdasd
+
 ### CurseForge Manual
 
 1. Download and install [CurseForge](https://www.curseforge.com/download/app).

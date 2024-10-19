@@ -1,12 +1,12 @@
 name = "Fatherless Goes To Nature"
 author = "Veonise"
-version = "1.0.2"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "82dd2f6acd252058d6d96cbfd9c01b56c7a63be98968101f585cd66a8445f344"
+hash = "7f2dda5fcace0de99a94bbdc1247e83cb695a2b8250b535a8703d937d184990f"
 
 [versions]
 fabric = "0.16.7"
