@@ -106,11 +106,6 @@ hash = "32fc6d799adbf10786ce01bb1ce6ceccd1108e85693c1644ee7e0f32b6567c19"
 metafile = true
 
 [[files]]
-file = "mods/matowos-invisible-armor.pw.toml"
-hash = "cd9742d05698ccb734fc28c08ad414523d9da26fbe68298bfbbc6c7e28de1abe"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "955e1fb3a73a7f62e1167e8010ae054b25260051958b254f25efb9194aa785c2"
 metafile = true
