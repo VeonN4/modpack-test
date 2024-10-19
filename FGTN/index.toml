@@ -5,6 +5,16 @@ file = "CHANGELOG.md"
 hash = "92ca7080b3633f1458ffcfd030281265108309531ec17883a0ef91d731e0bcd3"
 
 [[files]]
+file = "mods/.index/appleskin.pw.toml"
+hash = "8bdc78f52abc55d7d5c5c6c202062feb2d0fbd837b311f79977b5cc2ad25d86c"
+metafile = true
+
+[[files]]
+file = "mods/.index/fabric-api.pw.toml"
+hash = "b47b7eeb21ebdc9bfcfaa4dbfdd48c1094ee17fe3a18c73824ac0a0937cebac3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
