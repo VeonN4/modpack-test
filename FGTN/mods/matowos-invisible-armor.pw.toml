@@ -1,0 +1,13 @@
+name = "Matowo's Invisible Armor"
+filename = "matowos_invisible_armor-1.5-1.20.1-[FABRIC].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f0cdc78028a081b9f4187e5e943d949b045a16e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5712316
+project-id = 997726
